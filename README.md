@@ -1,2 +1,2 @@
-# Carta-Sanguigna
-Bernard Wars: A NFT based idle-RPG on Cardano
+# Bernard Wars
+> A NFT based idle-RPG on Cardano
