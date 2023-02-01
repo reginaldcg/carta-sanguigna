@@ -7,8 +7,7 @@ Bernard Wars is a game being built on the Cardano blockchain to be utilized by N
 
 North Star
 
-Ultimately, our ecosystem is built to where every asset and token can be transacted and traded on-chain. A white label of our products will be made available for our Partners to use and exchange for the rewards. Rewards are earned through a gamified approach on non-custodial staking with the required assets. E.g., Mafia Missions, Player vs Player (PVP) Raids, Demolition, Etc. In addition, Partners will be able to stake their own assets (non-Bernard NFTs), as well as offer and earn their native token. Lastly, for any non-Partners interested in our ecosystem, we will be providing sign-up applications at a later date from our initial release.
-In reference to all that were mentioned above; it’s a given that we will not achieve perfection overnight. However, with a sound plan combined with highly ambitious people, we will undoubtedly reach our goals.
+Ultimately, our ecosystem is built to where every asset and token can be transacted and traded on-chain. A white label of our products will be made available for our Partners to use and exchange for the rewards. Rewards are earned through a gamified approach on non-custodial staking with the required assets. E.g., Mafia Missions, Player vs Player (PVP) Raids, Demolition, Etc. In addition, Partners will be able to stake their own assets (non-Bernard NFTs), as well as offer and earn their native token. Lastly, for any non-Partners interested in our ecosystem, we will be providing sign-up applications at a later date from our initial release. In reference to all that were mentioned above; it’s a given that we will not achieve perfection overnight. However, with a sound plan combined with highly ambitious people, we will undoubtedly reach our goals.
 
 
 Game Components
@@ -23,8 +22,7 @@ The dashboard can be used to view, filter, sort and drill into your collection. 
 
 Staking Missions
 
-Staking Missions will allow Bernard Boys Mafia and Omertà pass NFT holders to earn staking rewards by utilizing their NFTs and Partner project NFTs to form Crews which also earn rewards for in-game use. All wins and claim will be hands-off and automated.
-Family Role holders will earn additional rewards from Partner non-Partner Projects. Rewards generated from here will be able to be used in-game to complete Missions as well as possible SWAG-related use down the road.
+Staking Missions will allow Bernard Boys Mafia and Omertà pass NFT holders to earn staking rewards by utilizing their NFTs and Partner project NFTs to form Crews which also earn rewards for in-game use. All wins and claim will be hands-off and automated. Family Role holders will earn additional rewards from Partner non-Partner Projects. Rewards generated from here will be able to be used in-game to complete Missions as well as possible SWAG-related use down the road.
 
 
 Speakeasy
@@ -89,7 +87,7 @@ The Garage is an extension of the Mansion and is important because of how many s
 
 Cities
 
-Cities relate to routes on a map. Traveling to Cities requires $BONES to enter and a vehicle with enough range to reach the city and takes travel time. Some Vehicles are faster than others. When on a route, your vehicle is safe but, while in the city, your vehicle can be attacked by others. Cities will have resources to gather and deliver as well as places for your Mansion with rewards for Families controlling the most Cities.
+Cities relate to routes on a map. Traveling to Cities requires $OSSA to enter and a vehicle with enough range to reach the city and takes travel time. Some Vehicles are faster than others. When on a route, your vehicle is safe but, while in the city, your vehicle can be attacked by others. Cities will have resources to gather and deliver as well as places for your Mansion with rewards for Families controlling the most Cities.
 
 
 Event Arcs
@@ -119,8 +117,7 @@ Purposes: Easy to earn coin but is needed to start playing the game. Needed to d
 
 Distribution
 
-Tokens spent in-game will return it to the Bernard Boys Mafia Project wallet for redistribution as rewards in order to keep the ecosystem self-sustaining. A large portion of the bank for $SHINE and $OSSA will be utilized for game rewards to ensure adequate rewards can be allocated.
-Distribution of the tokens will be as follows: Team will be distributed their share of $NARD slowly over time to reduce volatility and ensure long term sustainability. Five years to fully distribute.
+Tokens spent in-game will return it to the Bernard Boys Mafia Project wallet for redistribution as rewards in order to keep the ecosystem self-sustaining. A large portion of the bank for $SHINE and $OSSA will be utilized for game rewards to ensure adequate rewards can be allocated. Distribution of the tokens will be as follows: Team will be distributed their share of $NARD slowly over time to reduce volatility and ensure long term sustainability. Five years to fully distribute.
 
 
 Token Distribution Chart
