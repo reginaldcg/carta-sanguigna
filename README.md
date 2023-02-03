@@ -44,91 +44,91 @@ Bernard Wars, an NFT based idle-RPG on Cardano.
 > 
 > To understand the game mechanics, we first need to explore the various elements that make up our ecosystem and their suggested purposes. Secondly, we’ll delve into **Tokenomics**. Finally, we will outline the framework in-depth. This is an iterative development process; which means, that these plans are subject to change as the system evolves over time. This, [whitepaper](https://medium.com/@bernardboysnft), will serve as our direction; in which new roadmaps and whitepapers will be derived from.
 > 
-> 1. **Analytics Dashboard & Flex Studio**
->    1. The Dashboard can be used to view, filter, sort and drill into your collection. 
->    2. A gif of your collection can be generated here with options for size and speed. 
->    3. Statistics about your collection, additional filters and rewards will be added with Staking Missions and missions.
->    
-> 2. **Staking Missions**
->    1. Staking Missions will allow your Bernard and Omertà Pass NFT holders to earn staking rewards by utilizing their NFTs and Partner Project NFTs to form crews which earn rewards for use in-game.
->    2. Family Role holders will earn additional rewards from partner projects. 
->    3. Rewards generated from here will be able to be used in-game to complete missions, as well as possible swag-related uses later down the road.
->    
-> 3. **Speakeasy**
->    1. The Speakeasy will be hub for information and leaderboards.
->    2. Public profiles can be curated by accounts to display dominance and earn massive rewards for winning Staking Missions as well as other in-game competitions.
->    3. A global chat will exist here where users can interact with users to connect with the community or collaborate on strategy.
->    
-> 4. **IRL Missions**  
->    1. This area will host events and missions for completing missions linked to social media and IRL challenges which can be completed periodically to win rewards and compete against other Families for bragging rights and the best rewards.
->    
-> 5. **The Vault**
->    1. The Vault will be the place to view your in-game or wallet assets. 
->    2. You will also be able to utilize the value to send assets to your wallet or load assets from your wallet. 
->    3. Certain coin-based assets loaded from your wallet, to in-game, may be raided if a Mansion Guard wasn’t used.
->    4. Interactions with the chain will be desktop first due to compromises needed for delivery, but this is the exception and not the rule.
->    
-> 6. **Pawn Shop**
->    1. In-game coin exchange for select pairs at set rates.
->    2. In-game artifacts like shields, vehicle parts, weapons, defenses, bling, etc., will also be made available for exchange here for various in-game coins.
->    3. Dust may also be exchanged for $NARD.
->    
-> 7. **Dispensary**  
->    1. The Dispensary will be where you can get WL spots for Projects partnering with Bernard Boys Mafia™. Generally, we ask Projects to either buy tokens or NFTs, used for community giveaways, to promote Bernard Boys Mafia™. In exchange, we would do the same. Notably, the claiming process will be hands off and fully autonomous.
->    
-> 8. **Families**
->    1. Families will be created and minted with a standard set of properties and can be utilized by other servers or games.
->    2. Families will compete in events, claim cities for territory to earn top rewards.  
->    3. The Discord account linked to a wallet which holds a family crest NFT is the Boss.
->    4. The Boss will be able to maintain a list of Officers with varying permissions to help manage the family; such as, setting profile details public or private.
->    
-> 9. **Alpha Dogs**
->    1. Alpha Dogs are player characters, which can be bred by collecting Breeding Shards.
->    2. There will be a baseline set of Alpha Dogs and can be used to get basic items, completed in the game, and are relatively easy to earn.
->    3. Each Dog will have a breed, which are specialized towards fighting NPCs, gathering or delivering items, gaining XP, PvP, etc.
->    4. Each alpha dog bred in-game will have a serial number and pedigree with a limited supply, but otherwise will be identical to the other characters with the same Breed and Name.
->    
-> 10. **Breeding Shards & Breeding Dust**
->    1. Breeding Shards can be earned through completing missions and other in-game challenges (_events, staking missions, etc._.)
->    2. Shards will be specific to a particular Alpha Dog it’s part of.
->    3. If an Alpha Dog is maxed, the account will be credited with **Breeding Dust**; which can be exchanged for additional Breeding Shards for any Alpha Dog.
->    
-> 11. **Vehicles**
->    1. Vehicles will have a few different classes; such as, transport, speed and safety.
->    2. Each one will have different armaments and firing patterns which can be used in PvP, raiding, and resource gathering.
->    3. Vehicles will have special abilities which will suit them for particular tasks.
->    4. Vehicles require parts to be built which can be won with Missions and Staking Missions.
->    
-> 12. **Mansion**
->    1. Each account will be able to construct a mansion in the cities they can travel to.
->    2. Inside will be various operations; rooms, decorations and vehicles can be built, upgraded and leveled to buff Alpha Dogs and the mansion itself.
->    
-> 13. **Mansion Guards**
->    1. Mansion Guards must be hired in certain hourly increments to keep your mansion from being attacked.
->    2. While your guards are present, your mansion cannot be attacked.
->    3. However, if you initiate an attack against another player’s vehicle or mansion, your guards will get scared and leave, leaving your mansion open to attack.
->    4. Mansions will be able to be outfitted with various automated security systems, but, once defeated, your mansion is open to plunder, and your enemies will start loading their trucks with your loot.
->    
-> 14. **Garage**
->    1. The Garage is an extension of the mansion and is important because of how many slots the garage holds.
->    2. This is the number of vehicles you will be able to send on missions, resource gathering, and PvP at a single time.
->    3. The garage starts out with two open bays and any vehicle in your inventory can be added to an open bay or swapped with an existing vehicle.
->    4. If a vehicle has been damaged or destroyed, it must be repaired and occupies a garage bay while under repair.
->    
-> 15. **Cities**
->    1. Cities are connected with routes on a map.
->    2. Traveling to cities requires $OSSA to enter and a vehicle with enough range to reach the city and takes travel time.
->    3. Some vehicles are faster than others.
->    4. When on a route, your vehicle is safe but, while in the city, your vehicle can be attacked by others.
->    5. Cities will have resources to gather and deliver as well as places for your mansion with rewards for Families controlling the most cities.
->    
-> 16. **Event Arcs**
->    1. Event Arcs are a series of missions, events and game artifacts that contain centralized themes.
->    2. New Mansion rooms, Alpha Dogs, breeds, Cities, etc., will be themed around a movie or season from our favorite gangster movies and shows.
->    3. They will be themed for ages 13 or older to ensure safe content.
->    4. The community will take part in shaping these Event Arcs by simply suggesting names or even providing content.
->    4. Previews, early sneak peeks, and approvals will be held as Alpha for the Omertà.
-
+> - **Analytics Dashboard & Flex Studio**
+>     - The Dashboard can be used to view, filter, sort and drill into your collection. 
+>     - A gif of your collection can be generated here with options for size and speed. 
+>     - Statistics about your collection, additional filters and rewards will be added with Staking Missions and missions.
+>
+> - **Staking Missions**
+>     - Staking Missions will allow your Bernard and Omertà Pass NFT holders to earn staking rewards by utilizing their NFTs and Partner Project NFTs to form crews which earn rewards for use in-game.
+>     - Family Role holders will earn additional rewards from partner projects. 
+>     - Rewards generated from here will be able to be used in-game to complete missions, as well as possible swag-related uses later down the road.
+>
+> - **Speakeasy**
+>     - The Speakeasy will be hub for information and leaderboards.
+>     - Public profiles can be curated by accounts to display dominance and earn massive rewards for winning Staking Missions as well as other in-game competitions.
+>     - A global chat will exist here where users can interact with users to connect with the community or collaborate on strategy.
+>
+> - **IRL Missions**  
+>     - This area will host events and missions for completing missions linked to social media and IRL challenges which can be completed periodically to win rewards and compete against other Families for bragging rights and the best rewards.
+>
+> - **The Vault**
+>     - The Vault will be the place to view your in-game or wallet assets. 
+>     - You will also be able to utilize the value to send assets to your wallet or load assets from your wallet. 
+>     - Certain coin-based assets loaded from your wallet, to in-game, may be raided if a Mansion Guard wasn’t used.
+>     - Interactions with the chain will be desktop first due to compromises needed for delivery, but this is the exception and not the rule.
+>
+> - **Pawn Shop**
+>     - In-game coin exchange for select pairs at set rates.
+>     - In-game artifacts like shields, vehicle parts, weapons, defenses, bling, etc., will also be made available for exchange here for various in-game coins.
+>     - Dust may also be exchanged for $NARD.
+>
+> - **Dispensary**  
+>     - The Dispensary will be where you can get WL spots for Projects partnering with Bernard Boys Mafia™. Generally, we ask Projects to either buy tokens or NFTs, used for community giveaways, to promote Bernard Boys Mafia™. In exchange, we would do the same. Notably, the claiming process will be hands off and fully autonomous.
+>
+> - **Families**
+>     - amilies will be created and minted with a standard set of properties and can be utilized by other servers or games.
+>     - Families will compete in events, claim cities for territory to earn top rewards.  
+>     - The Discord account linked to a wallet which holds a family crest NFT is the Boss.
+>     - The Boss will be able to maintain a list of Officers with varying permissions to help manage the family; such as, setting profile details public or private.
+>
+> - **Alpha Dogs**
+>     - Alpha Dogs are player characters, which can be bred by collecting Breeding Shards.
+>     - There will be a baseline set of Alpha Dogs and can be used to get basic items, completed in the game, and are relatively easy to earn.
+>     - Each Dog will have a breed, which are specialized towards fighting NPCs, gathering or delivering items, gaining XP, PvP, etc.
+>     - Each alpha dog bred in-game will have a serial number and pedigree with a limited supply, but otherwise will be identical to the other characters with the same Breed and Name.
+>
+> - **Breeding Shards & Breeding Dust**
+>     - Breeding Shards can be earned through completing missions and other in-game challenges (_events, staking missions, etc._.)
+>     - Shards will be specific to a particular Alpha Dog it’s part of.
+>     - If an Alpha Dog is maxed, the account will be credited with **Breeding Dust**; which can be exchanged for additional Breeding Shards for any Alpha Dog.
+>
+> - **Vehicles**
+>     - Vehicles will have a few different classes; such as, transport, speed and safety.
+>     - Each one will have different armaments and firing patterns which can be used in PvP, raiding, and resource gathering.
+>     - Vehicles will have special abilities which will suit them for particular tasks.
+>     - Vehicles require parts to be built which can be won with Missions and Staking Missions.
+>
+> - **Mansion**
+>     - Each account will be able to construct a mansion in the cities they can travel to.
+>     - Inside will be various operations; rooms, decorations and vehicles can be built, upgraded and leveled to buff Alpha Dogs and the mansion itself.
+>
+> - **Mansion Guards**
+>     - Mansion Guards must be hired in certain hourly increments to keep your mansion from being attacked.
+>     - While your guards are present, your mansion cannot be attacked.
+>     - However, if you initiate an attack against another player’s vehicle or mansion, your guards will get scared and leave, leaving your mansion open to attack.
+>     - Mansions will be able to be outfitted with various automated security systems, but, once defeated, your mansion is open to plunder, and your enemies will start loading their trucks with your loot.
+>
+> - **Garage**
+>     - The Garage is an extension of the mansion and is important because of how many slots the garage holds.
+>     - This is the number of vehicles you will be able to send on missions, resource gathering, and PvP at a single time.
+>     - The garage starts out with two open bays and any vehicle in your inventory can be added to an open bay or swapped with an existing vehicle.
+>     - If a vehicle has been damaged or destroyed, it must be repaired and occupies a garage bay while under repair.
+>
+> - **Cities**
+>     - Cities are connected with routes on a map.
+>     - Traveling to cities requires $OSSA to enter and a vehicle with enough range to reach the city and takes travel time.
+>     - Some vehicles are faster than others.
+>     - When on a route, your vehicle is safe but, while in the city, your vehicle can be attacked by others.
+>     - Cities will have resources to gather and deliver as well as places for your mansion with rewards for Families controlling the most cities.
+>
+> - **Event Arcs**
+>     - Event Arcs are a series of missions, events and game artifacts that contain centralized themes.
+>     - New Mansion rooms, Alpha Dogs, breeds, Cities, etc., will be themed around a movie or season from our favorite gangster movies and shows.
+>     - They will be themed for ages 13 or older to ensure safe content.
+>     - The community will take part in shaping these Event Arcs by simply suggesting names or even providing content.
+>     - Previews, early sneak peeks, and approvals will be held as Alpha for the Omertà.
+>
 
 ![bernardboys](https://miro.medium.com/v2/resize:fit:362/format:webp/1*MK9S20dNnzJYJn2i4dDmiA.png)
 
