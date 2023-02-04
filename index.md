@@ -130,44 +130,67 @@ Bernard Wars, an NFT based idle-RPG on Cardano.
 >     - Previews, early sneak peeks, and approvals will be held as Alpha for the Omertà.
 >
 
+
 ![bernardboys](https://miro.medium.com/v2/resize:fit:362/format:webp/1*MK9S20dNnzJYJn2i4dDmiA.png)
 
 
-The project will foster liquidity and real-world use for one token within the gaming ecosystem: $NARD. However, the staking missions, missions, gameplay and unforeseen on-chain uses (tip bots for example) will have a wide array of tokens with various in-game utility.
+### The Dog, the Booze, the Bones
+> Tokenomics.
+> 
+> The project will foster liquidity and real-world use for one token within the gaming ecosystem: $NARD. However, the staking missions, missions, gameplay and unforeseen on-chain uses (tip bots for example) will have a wide array of tokens with various in-game utility. Any token and policy not listed here will not have a specific supply or distribution as it’s intent is in-game only rewards, but we want to make all in-game assets tradable when possible, so, there will be a wide array of policy id’s associated with the game and will be able to be inspected.
+> 
+> - **Token**: $NARD
+>     - **Supply**: 5,000,000,000
+>       - Used to unlock project level rewards for other NFT non-Partner Projects.
+>       - Able to be used instead of speed ups, materials or other tokens or buffs in the game.
+>       - Used to get powerful items from The Pawn Shop.
+>       - Able to be used to mint collections.
+>       
+> - **Token**: $SHINE
+>     - **Supply**: 500,000,000,000
+>       - Used primarily to build items or upgrade items in game.
+>       - Needed in game to build items for your Mansion.
+>       - Earned through Staking Missions, Missions and in game challenges and quests.
+>       - Not a protected resource and can be raided by other players.
+>       
+> - **Token**: $OSSA
+>     - **Supply**: 500,000,000,000,000
+>       - Easy to earn coin but is needed to start playing the game.
+>       - Needed to do things in the game, like gas or energy.
+>       - Able to be won or lost in raids.
+>       - Be made available and registered in tip bots.
+>       
+> Spend of tokens in game returns the tokens to the project wallet for redistribution as rewards to keep the ecosystem self sustaining. A large portion of the bank for $SHINE and $OSSA will be utilized for game rewards to ensure adequate rewards can be allocated.
+> 
+> Distribution of the tokens will be as follows: Team will be distributed their share of $NARD over time, as to reduce the risk of price volatility and ensure long term success. It’s estimated that it will take five years to fully distribute.
+> 
+> Air drops won’t be completed at once. Game items include the ability to purchase packs and chests with $NARD and other items and all other aspects except Staking Missions.
+> 
+> ![token-chart](https://github.com/reginaldcg/carta-sanguigna/blob/main/assets/img/token-distribution.png?raw=true)
+> 
+> ![token-chart](https://github.com/reginaldcg/carta-sanguigna/blob/main/assets/img/token-chart.png?raw=true)
+> 
 
-Any token and policy not listed here will not have a specific supply or distribution as it’s intent is in-game only rewards, but we want to make all in-game assets tradable when possible, so, there will be a wide array of policy id’s associated with the game and will be able to be inspected.
+### Philosophy in Process
+> Mobile-friendly comes to mind.
+> 
+> The game, staking components and other game elements will be oriented for mobile usage. Meaning, there’s an emphasis on being able to capture a wider audience; before any other forms adaptation takes place, such as desktop use.
+> 
 
-*   **Token: $NARD / Supply: 5,000,000,000  
-    **_Purpose:_ ¹Used to unlock project level rewards for other NFT non-Partner Projects. ²Able to be used instead of speed ups, materials or other tokens or buffs in the game. ³Used to get powerful items from The Pawn Shop. ⁴Able to be used to mint collections.
-*   **Token: $SHINE / Supply: 500,000,000,000  
-    **_Purpose:_ ¹Used primarily to build items or upgrade items in game. ²Needed in game to build items for your Mansion. ³Earned through Staking Missions, Missions and in game challenges and quests. ⁴Not a protected resource and can be raided by other players.
-*   **Token: $OSSA / Supply: 500,000,000,000,000  
-    **_Purpose:_ ¹Easy to earn coin but is needed to start playing the game. ²Needed to do things in the game, like gas or energy. ³Able to be won or lost in raids. ⁴Be made available and registered in tip bots.
+### Iterative Development
+> Again, this document is a forward look into the vision for the product. Development resources are limited, at the time of writing, and it will take time to realize this vision. However, iterative development allows us to consistently prioritize and deliver the most valuable items as set by the community while remaining true to our vision and north star.
+> 
+> Staking Missions will be our priority and will be our sole focus. Once this has been released, we will focus on a few Flex Studio items while we polish the UI and fix issues with the Staking Missions. In the background, a new release plan will be developed to deliver a new feature to the ecosystem. Then, the same process will repeat until the game is complete.
+> 
+> This timeline is long and depends on many external factors, and, as such, has a high amount of risk associated with all new endeavors. This paper is not a promise to deliver functionality. Please check our Discord or web site for the current delivery plans and set expectations accordingly. Our doors are open and are seeking to provide more opportunities for others. If you are a skilled Technologist, are proficient in business, or a result-driven Marketer, reach out to us directly on [**Discord**](https://t.co/Tgl0RM9lO5) or [**Twitter**](https://twitter.com/BernardBoysNFT).
+> 
 
-Spend of tokens in game returns the tokens to the project wallet for redistribution as rewards to keep the ecosystem self sustaining. A large portion of the bank for $SHINE and $OSSA will be utilized for game rewards to ensure adequate rewards can be allocated.
-
-Distribution of the tokens will be as follows: Team will be distributed their share of $NARD over time, as to reduce the risk of price volatility and ensure long term success. It’s estimated that it will take five years to fully distribute.
-
-Air drops won’t be completed at once. Game items include the ability to purchase packs and chests with $NARD and other items and all other aspects except Staking Missions.
-
-Bernard Wars, Token Distribution of $NARD, $SHINE, & $OSSA.
-
-Bernard Wars, Token Distribution of $NARD, $SHINE, & $OSSA.
-
-Bernard Boys Mafia™
-
-Mobile-friendly comes to mind. The game, staking components and other game elements will be oriented for mobile usage. Meaning, there’s an emphasis on being able to capture a wider audience; before any other forms adaptation takes place, such as desktop use.
-
-Again, this document is a forward look into the vision for the product. Development resources are limited, at the time of writing, and it will take time to realize this vision. However, iterative development allows us to consistently prioritize and deliver the most valuable items as set by the community while remaining true to our vision and north star.
-
-Staking Missions will be our priority and will be our sole focus. Once this has been released, we will focus on a few Flex Studio items while we polish the UI and fix issues with the Staking Missions. In the background, a new release plan will be developed to deliver a new feature to the ecosystem. Then, the same process will repeat until the game is complete.
-
-This timeline is long and depends on many external factors, and, as such, has a high amount of risk associated with all new endeavors. This paper is not a promise to deliver functionality. Please check our Discord or web site for the current delivery plans and set expectations accordingly.
-
-Our mission is to promote $ADA and Cardano NFTs through art and development of a NFT based game ecosystem which is fun and safe. We believe art and gaming are perfect fits for the modern world of digital ownership and work to promote this fact and empower game players to take control of their assets. We contribute to the development and thought leadership in the space with open-source tools and architectures for developers and non-Partner Projects. We enable other non-Partner Projects to make use of our tools for their users so they may have more enjoyment out of their collections.
+**Our mission** is to promote $ADA and Cardano NFTs through art and development of a NFT based game ecosystem which is fun and safe. We believe art and gaming are perfect fits for the modern world of digital ownership and work to promote this fact and empower game players to take control of their assets. We contribute to the development and thought leadership in the space with open-source tools and architectures for developers and non-Partner Projects. We enable other non-Partner Projects to make use of our tools for their users so they may have more enjoyment out of their collections.
 
 Make no mistake, Bernard Boys Mafia™ is an art project first. We provide the best-in-class entertainment and gaming for our holders of today, but we also believe the long-term resale (hundreds of years) and utility is stored in the art. As such, we make NFTs which can be proudly displayed, shared and admired by diverse groups across the globe within the Mafia Universe. Best-in-class profile NFTs will always be our bread-and-butter.
 
-Our doors are open and are seeking to provide more opportunities for others. If you are a skilled Technologist, are proficient in business, or a result-driven Marketer, reach out to us directly on [**Discord**](https://t.co/Tgl0RM9lO5) or [**Twitter**](https://twitter.com/BernardBoysNFT).
 
-Bernard Boys Mafia™
+![bernardboys](https://miro.medium.com/v2/resize:fit:76/format:webp/1*ElV1ybbrb4J1P50YYaDkaQ.png)
+
+
+[//]: # (🐾 PUG WAS HERE!)
